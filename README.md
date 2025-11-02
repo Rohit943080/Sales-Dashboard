@@ -34,7 +34,7 @@ It visualizes data across multiple dimensions — **Category**, **Year**, **Cust
 
 ## 📈 Dashboard Preview
 
-![Sales Dashboard Screenshot](./Screenshot_2025-11-02_132728.png)
+![Sales Dashboard Screenshot](./SalesDashboard.png)
 
 ---
 
@@ -50,7 +50,7 @@ It visualizes data across multiple dimensions — **Category**, **Year**, **Cust
 
 **Rohit Raj**
 💼 Aspiring Data Analyst | Passionate about turning data into actionable insights
-🔗 [LinkedIn Profile](https://www.linkedin.com) *(Add your actual LinkedIn link)*
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohit-raj-980416267/)
 
 ---
 
